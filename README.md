@@ -1,4 +1,6 @@
-Event Planning & Management System - Guide on how to run the application
+# Event Planning & Management System 
+**SeroMeet** is an Event Planning & Management System (EPMS) web-based platform that enables users to organize, manage, join, and take part in a wide range of events. Whether hosting a public gathering or planning a private meet-up, users can manage invitations, track participation, stay informed and engage in event-specific conversations. Public events are available to all registered users, while private events only accessible to those have been invited and agree to join. The standout feature of our app is the communication system where only accepted participants of public or private events can interact, share and stay connected throughout the event process.
+# Guide on how to run the application
 1. Make sure that MongoDB and Node is running on your system
 2. Run npm install for frontend directory and root directory
 3. Go to the frontend directory of the project
@@ -7,7 +9,7 @@ Event Planning & Management System - Guide on how to run the application
 6. Run node . or node --experimental-strip-types . on the terminal if you are on Node version is between 22.6.00 and 23
 7. To stop the server press Ctrl + C on the terminal.
 
-For MongoDB installation
+# For MongoDB installation
 1. Go to https://www.mongodb.com/try/download/community
 2. Choose msi package and download
 3. After download finished, open the installer to get to the setup wizard
